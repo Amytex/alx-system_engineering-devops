@@ -1,0 +1,2 @@
+#!/bin/bash 
+find . "type T ~name ".js -delete
