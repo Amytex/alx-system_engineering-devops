@@ -1,2 +1,2 @@
 #!/bin/bash 
-find . "type T ~name ".js -delete
+find . "type T ~name "^.js" -delete
